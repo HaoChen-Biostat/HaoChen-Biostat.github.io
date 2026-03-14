@@ -1,10 +1,10 @@
 #### Seleted Publications
 
-- L. Hou, <strong>H. Chen*</strong>, X.H. Zhou* (2025). MR-EILLS: an invariance-based Mendelian randomization method integrating multiple heterogeneous GWAS summary datasets. <strong>Nature Communications</strong>, 16(1):7668. [[Paper]](https://doi.org/10.1038/s41467-025-62823-6)
+- L. Hou, <strong>H. Chen</strong>*, X.H. Zhou (2025). MR-EILLS: an invariance-based Mendelian randomization method integrating multiple heterogeneous GWAS summary datasets. <strong>Nature Communications</strong>, 16(1):7668. [[Paper]](https://doi.org/10.1038/s41467-025-62823-6)
 
 - <strong>H. Chen</strong>, D. Guo, Y. Guo, et al. (2025). Cooperative Differential Network Learning With Hub Detection for Multi-Center Neuroimaging Data. <strong>The Annals of Applied Statistics</strong>, 19(2):1578-1602. [[Paper]](https://doi.org/10.1214/25-AOAS2026)
 
-- J. Ji, ..., <strong>H. Chen</strong>*, Z. Yuan* (2024). Differential network knockoff filter with application to brain connectivity analysis. <strong>Statistics in Medicine</strong>, 43(20): 3830-3861. [[Paper]](https://doi.org/10.1002/sim.10155)
+- J. Ji, ..., <strong>H. Chen</strong>*, Z. Yuan (2024). Differential network knockoff filter with application to brain connectivity analysis. <strong>Statistics in Medicine</strong>, 43(20): 3830-3861. [[Paper]](https://doi.org/10.1002/sim.10155)
 
 - <strong>H. Chen</strong>, Y. Wang, T. Ji, et al. (2023). Brain functional connectivity-based prediction of vagus nerve stimulation efficacy in pediatric pharmacoresistant epilepsy. <strong>CNS Neuroscience & Therapeutics</strong>, 29: 3259-3268. [[Paper]](https://doi.org/10.1111/cns.14257)
 
@@ -30,7 +30,7 @@
 
 - <strong>H. Chen</strong>, D. Liu, J. Ji, et al. Unsupervised Sparse Multi-task Learning with Application to Alzheimer's Disease. <strong>Statistics in Medicine</strong> (Under Review (2nd round)).
 
-- C. Ma, <strong>H. Chen</strong>*, Y. Hu*, et al. Differential Network Analysis for Compositional Data with Applications to Metagenomics and Single Cell Sequencing Studies. <strong>Journal of the American Statistical Association</strong>  (Under Review (1st round)).
+- C. Ma, <strong>H. Chen</strong>*, Y. Hu, et al. Differential Network Analysis for Compositional Data with Applications to Metagenomics and Single Cell Sequencing Studies. <strong>Journal of the American Statistical Association</strong>  (Under Review (1st round)).
 
 - L. Hou, X.H. Zhou, ..., <strong>H. Chen</strong>*. TL-HDMR: A Transfer Learning Framework for Advancing Equitable Causal Inference reveals Metabolic Signatures of Stroke across Multiple Ancestries. <strong>Briefings in Bioinformatics</strong>  (Under Review (1st round)).
 
