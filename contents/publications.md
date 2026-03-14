@@ -1,6 +1,6 @@
 #### Seleted Publications
 
-- L. Hou, <strong>H. Chen</strong>*, X.H. Zhou* (2025). MR-EILLS: an invariance-based Mendelian randomization method integrating multiple heterogeneous GWAS summary datasets. <strong>Nature Communications</strong>, 16(1):7668. [[Paper]](https://doi.org/10.1038/s41467-025-62823-6)
+- L. Hou, <strong>H. Chen*</strong>, X.H. Zhou* (2025). MR-EILLS: an invariance-based Mendelian randomization method integrating multiple heterogeneous GWAS summary datasets. <strong>Nature Communications</strong>, 16(1):7668. [[Paper]](https://doi.org/10.1038/s41467-025-62823-6)
 
 - <strong>H. Chen</strong>, D. Guo, Y. Guo, et al. (2025). Cooperative Differential Network Learning With Hub Detection for Multi-Center Neuroimaging Data. <strong>The Annals of Applied Statistics</strong>, 19(2):1578-1602. [[Paper]](https://doi.org/10.1214/25-AOAS2026)
 
