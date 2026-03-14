@@ -4,7 +4,7 @@
 
 - <strong>H. Chen</strong>, D. Guo, Y. Guo, et al. (2025). Cooperative Differential Network Learning With Hub Detection for Multi-Center Neuroimaging Data. <strong>The Annals of Applied Statistics</strong>, 19(2):1578-1602. [[Paper]](https://doi.org/10.1214/25-AOAS2026)
 
-- J. Ji, ..., <strong>H. Chen</strong><sup>*</sup>, Z. Yuan<sup>*</sup> (2024). Differential network knockoff filter with application to brain connectivity analysis. <strong>Statistics in Medicine</strong>, 43(20): 3830-3861. [[Paper]](https://doi.org/10.1002/sim.10155)
+- J. Ji, ..., <strong>H. Chen</strong><sup>&lowast;</sup>, Z. Yuan<sup>&lowast;</sup> (2024). Differential network knockoff filter with application to brain connectivity analysis. <strong>Statistics in Medicine</strong>, 43(20): 3830-3861. [[Paper]](https://doi.org/10.1002/sim.10155)
 
 - <strong>H. Chen</strong>, Y. Wang, T. Ji, et al. (2023). Brain functional connectivity-based prediction of vagus nerve stimulation efficacy in pediatric pharmacoresistant epilepsy. <strong>CNS Neuroscience & Therapeutics</strong>, 29: 3259-3268. [[Paper]](https://doi.org/10.1111/cns.14257)
 
