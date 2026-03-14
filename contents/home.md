@@ -15,8 +15,8 @@ M.S., Statistics, University of Connecticut, 2015—2017.\
 B.S., Mathematics and Applied Mathematics, Shandong University, 2011—2015.
 
 #### Research Interests
-<strong>High-Dimensional Statistics</strong>: Developing graphical models and cooperative differential network learning methods.\
-<strong>Neuroimaging Statistics</strong>: Advancing statistical methods for brain functional connectivity and neurological disorder prediction.\
-<strong>Causal Inference in Genetics</strong>: Utilizing Mendelian randomization and integrating heterogeneous GWAS summary datasets.\
-<strong>Biostatistics</strong>: Applying innovative statistical and machine learning approaches to complex clinical and multi-omics data.
+High-Dimensional Statistics: Developing graphical models and cooperative differential network learning methods.\
+Neuroimaging Statistics: Advancing statistical methods for brain functional connectivity and neurological disorder prediction.\
+Causal Inference in Genetics: Utilizing Mendelian randomization and integrating heterogeneous GWAS summary datasets.\
+Biostatistics: Applying innovative statistical and machine learning approaches to complex clinical and multi-omics data.
 
