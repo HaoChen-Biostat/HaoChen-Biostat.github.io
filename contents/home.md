@@ -3,16 +3,20 @@
 [![haochen](https://img.shields.io/badge/HaoChen-Biostat?logo=github&logoColor=white&label=github&color=blue
 )](https://github.com/HaoChen-Biostat)
 
-He is currently a Associate Professor in the Department of Biostatistics at Shandong University.
+I am currently an Associate Professor in the Department of Biostatistics at the School of Public Health, Shandong University. Before joining the faculty here, I served as a Boya Postdoctoral Fellow at the Beijing International Center for Mathematical Research, Peking University. My academic work has been recognized by the Shandong Province Youth Science and Technology Talent Project (2024) and the Shandong University Future Scholar Program (2025).
 
 #### Contact
 
-Email: hao.chen[at]sdu.edu.cn
+Email: hao.chen@sdu.edu.cn
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025.\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+Ph.D., Statistics, Shandong University of Finance and Economics, 2018—2021.\
+M.S., Statistics, University of Connecticut, 2015—2017.\
+B.S., Mathematics and Applied Mathematics, Shandong University, 2011—2015.
 
 #### Research Interests
-Machine Learning for Seismology; Foundation Model; Observational Seismology; Microseismic Monitoring
+High-Dimensional Statistics: Developing graphical models and cooperative differential network learning methods.\
+Neuroimaging Statistics: Advancing statistical methods for brain functional connectivity and neurological disorder prediction.\
+Causal Inference in Genetics: Utilizing Mendelian randomization and integrating heterogeneous GWAS summary datasets.\
+Biostatistics: Applying innovative statistical and machine learning approaches to complex clinical and multi-omics data.
 
