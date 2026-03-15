@@ -32,6 +32,8 @@
 
 - C. Ma, <strong>H. Chen</strong><sup>&#9993;</sup>, Y. Hu<sup>&#9993;</sup>, et al. Differential Network Analysis for Compositional Data with Applications to Metagenomics and Single Cell Sequencing Studies. <strong>Journal of the American Statistical Association</strong>  (Under Review (1st round)).
 
+- Y. Wei, L. Hou<sup>&#9993;</sup>, <strong>H. Chen</strong><sup>&#9993;</sup>, et al. A Robust Transfer Learning Framework for Integrating Multi-Source Heterogeneous Omics Data via Gaussian Copula. <strong>IEEE Journal of Biomedical and Health Informatics</strong>  (Under Review (1st round)).
+
 - L. Hou, X.H. Zhou, ..., <strong>H. Chen</strong><sup>&#9993;</sup>. TL-HDMR: A Transfer Learning Framework for Advancing Equitable Causal Inference reveals Metabolic Signatures of Stroke across Multiple Ancestries. <strong>Briefings in Bioinformatics</strong>  (Under Review (1st round)).
 
 - <strong>H. Chen</strong>, Y. He, L. Hou, et al. Simultaneous Differential Network and Pathway Identification for Analyzing Effects of Brain Functional Connectivities on the Pathway from ApoE Gene to Alzheimer's Disease. <strong>Biostatistics</strong>  (Under Review (1st round)).
