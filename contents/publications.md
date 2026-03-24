@@ -10,9 +10,11 @@
 
 - <strong>H. Chen</strong>, Y. Guo, Y. He, et al. (2022). Simultaneous differential network analysis and classification for matrix-variate data with application to brain connectivity. <strong>Biostatistics</strong>, 23(3): 967-989. [[Paper]](https://doi.org/10.1093/biostatistics/kxab007)
 
+- <strong>H. Chen</strong>, D. Liu, J. Ji, et al. (2026). Unsupervised Sparse Multi-task Learning with Application to Alzheimer's Disease. <strong>Statistics in Medicine</strong>, Accept.
+
 #### Other Publications
 
-- H. Ji, Y. Wu, ..., <strong>H. Chen</strong><sup>&#9993;</sup> (2026). Impact of metformin use during pregnancy on fetal congenital malformations across 11 organ systems: a meta-analysis and Drug-Target Mendelian Randomization study. <strong>Diabetes Research and Clinical Practice</strong>. [[Paper]](https://doi.org/10.1016/j.diabres.2026.113118)
+- H. Ji, Y. Wu, ..., <strong>H. Chen</strong><sup>&#9993;</sup> (2026). Impact of metformin use during pregnancy on fetal congenital malformations across 11 organ systems: a meta-analysis and Drug-Target Mendelian Randomization study. <strong>Diabetes Research and Clinical Practice</strong>, 233: 113118. [[Paper]](https://doi.org/10.1016/j.diabres.2026.113118)
 
 - X. He, Q. Jing, <strong>H. Chen</strong><sup>&#9993;</sup> (2023). The impact of environmental tax laws on heavy-polluting enterprise ESG performance: A stakeholder behavior perspective. <strong>Journal of Environmental Management</strong>, 344:118578. [[Paper]](https://doi.org/10.1016/j.jenvman.2023.118578)
 
@@ -27,8 +29,6 @@
 - <strong>H. Chen</strong>, Y. He, J. Ji, et al. (2019). A Machine Learning Method for Identifying Critical Interactions Between Gene Pairs in Alzheimer's Disease Prediction. <strong>Frontiers in Neurology</strong>, 10: 1162. [[Paper]](https://doi.org/10.3389/fneur.2019.01162) 
 
 #### Submitted / Under Review
-
-- <strong>H. Chen</strong>, D. Liu, J. Ji, et al. Unsupervised Sparse Multi-task Learning with Application to Alzheimer's Disease. <strong>Statistics in Medicine</strong> (Under Review (2nd round)).
 
 - C. Ma, <strong>H. Chen</strong><sup>&#9993;</sup>, Y. Hu<sup>&#9993;</sup>, et al. Differential Network Analysis for Compositional Data with Applications to Metagenomics and Single Cell Sequencing Studies. <strong>Journal of the American Statistical Association</strong>  (Under Review (1st round)).
 
