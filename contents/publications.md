@@ -30,7 +30,7 @@
 
 #### Submitted / Under Review
 
-- C. Ma, <strong>H. Chen</strong><sup>&#9993;</sup>, Y. Hu<sup>&#9993;</sup>, et al. Differential Network Analysis for Compositional Data with Applications to Metagenomics and Single Cell Sequencing Studies. <strong>Journal of the American Statistical Association</strong>  (Under Review (1st round)).
+- C. Ma, <strong>H. Chen</strong><sup>&#9993;</sup>, Y. Hu<sup>&#9993;</sup>, et al. Differential Network Analysis for Compositional Data with Applications to Metagenomics and Single Cell Sequencing Studies. <strong>Statistica Sinica</strong>  (Under Review (1st round)).
 
 - <strong>H. Chen</strong>, Y. He, L. Hou, et al. A Statistical Framework for Integrative Imaging Genomics with Biclustering and Ensemble Penalized Regression in Alzheimer's Disease. <strong>NeuroImage</strong>  (Under Review (1st round)).
 
