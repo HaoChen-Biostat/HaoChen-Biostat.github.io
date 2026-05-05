@@ -1,5 +1,7 @@
 #### Seleted Publications
 
+- <strong>H. Chen</strong>, D. Liu, J. Ji, et al. (2026). Unsupervised Sparse Multi-task Learning with Application to Alzheimer's Disease. <strong>Statistics in Medicine</strong>, 45(8-9): e70526. [[Paper]](https://doi.org/10.1002/sim.70526)
+
 - L. Hou, <strong>H. Chen</strong><sup>&#9993;</sup>, X.H. Zhou<sup>&#9993;</sup> (2025). MR-EILLS: an invariance-based Mendelian randomization method integrating multiple heterogeneous GWAS summary datasets. <strong>Nature Communications</strong>, 16(1):7668. [[Paper]](https://doi.org/10.1038/s41467-025-62823-6)
 
 - <strong>H. Chen</strong>, D. Guo, Y. Guo, et al. (2025). Cooperative Differential Network Learning With Hub Detection for Multi-Center Neuroimaging Data. <strong>The Annals of Applied Statistics</strong>, 19(2):1578-1602. [[Paper]](https://doi.org/10.1214/25-AOAS2026)
@@ -9,8 +11,6 @@
 - <strong>H. Chen</strong>, Y. Wang, T. Ji, et al. (2023). Brain functional connectivity-based prediction of vagus nerve stimulation efficacy in pediatric pharmacoresistant epilepsy. <strong>CNS Neuroscience & Therapeutics</strong>, 29: 3259-3268. [[Paper]](https://doi.org/10.1111/cns.14257)
 
 - <strong>H. Chen</strong>, Y. Guo, Y. He, et al. (2022). Simultaneous differential network analysis and classification for matrix-variate data with application to brain connectivity. <strong>Biostatistics</strong>, 23(3): 967-989. [[Paper]](https://doi.org/10.1093/biostatistics/kxab007)
-
-- <strong>H. Chen</strong>, D. Liu, J. Ji, et al. (2026). Unsupervised Sparse Multi-task Learning with Application to Alzheimer's Disease. <strong>Statistics in Medicine</strong>, Accept.
 
 #### Other Publications
 
