@@ -1,5 +1,7 @@
 #### Seleted Publications
 
+- L. Hou, X.H. Zhou, ..., <strong>H. Chen</strong><sup>&#9993;</sup>. TL-HDMR: A Transfer Learning Framework for Advancing Equitable Causal Inference reveals Metabolic Signatures of Stroke across Multiple Ancestries. <strong>Briefings in Bioinformatics</strong>  (Accept).
+
 - <strong>H. Chen</strong>, D. Liu, J. Ji, et al. (2026). Unsupervised Sparse Multi-task Learning with Application to Alzheimer's Disease. <strong>Statistics in Medicine</strong>, 45(8-9): e70526. [[Paper]](https://doi.org/10.1002/sim.70526)
 
 - L. Hou, <strong>H. Chen</strong><sup>&#9993;</sup>, X.H. Zhou<sup>&#9993;</sup> (2025). MR-EILLS: an invariance-based Mendelian randomization method integrating multiple heterogeneous GWAS summary datasets. <strong>Nature Communications</strong>, 16(1):7668. [[Paper]](https://doi.org/10.1038/s41467-025-62823-6)
@@ -32,10 +34,8 @@
 
 - <strong>H. Chen</strong>, Y. He, L. Hou, et al. A Statistical Framework for Integrative Imaging Genomics with Biclustering and Ensemble Penalized Regression in Alzheimer's Disease. <strong>NeuroImage</strong>  (Under Review (2nd round)).
 
-- L. Hou, X.H. Zhou, ..., <strong>H. Chen</strong><sup>&#9993;</sup>. TL-HDMR: A Transfer Learning Framework for Advancing Equitable Causal Inference reveals Metabolic Signatures of Stroke across Multiple Ancestries. <strong>Briefings in Bioinformatics</strong>  (Under Review (2nd round)).
-
-- C. Ma, <strong>H. Chen</strong><sup>&#9993;</sup>, Y. Hu<sup>&#9993;</sup>, et al. Differential Network Analysis for Compositional Data with Applications to Metagenomics and Single Cell Sequencing Studies. <strong>Statistica Sinica</strong>  (Under Review (1st round)).
+- C. Ma, <strong>H. Chen</strong><sup>&#9993;</sup>, Y. Hu<sup>&#9993;</sup>, et al. Differential Network Analysis for Compositional Data with Applications to Metagenomics and Single Cell Sequencing Studies. <strong>Statistica Sinica</strong>  (Major revision received, revising).
 
 - Y. Wei, L. Hou<sup>&#9993;</sup>, <strong>H. Chen</strong><sup>&#9993;</sup>, et al. A Robust Transfer Learning Framework for Integrating Multi-Source Heterogeneous Omics Data via Gaussian Copula. <strong>IEEE Journal of Biomedical and Health Informatics</strong>  (Under Review (1st round)).
 
-- <strong>H. Chen</strong>, Y. He, L. Hou, et al. Simultaneous Differential Network and Pathway Identification for Analyzing Effects of Brain Functional Connectivities on the Pathway from ApoE Gene to Alzheimer's Disease. <strong>Biostatistics</strong>  (Under Review (1st round)).
+- <strong>H. Chen</strong>, Y. He, L. Hou, et al. Simultaneous Differential Network and Pathway Identification for Analyzing Effects of Brain Functional Connectivities on the Pathway from ApoE Gene to Alzheimer's Disease. <strong>Statistical Methods in Medical Research</strong>  (Under Review (1st round)).

@@ -1,5 +1,6 @@
 #### Honors & Awards
 
+- First Prize of the <strong>Young Teacher Teaching Competition of Shandong University</strong> (2026).
 - Selected for the <strong>Shandong University Future Scholar Program</strong> (2025).
 - Selected for the <strong>Shandong Province Youth Science and Technology Talent Project</strong> (2024).
 - Second Prize of the <strong>36th Shandong Provincial Social Science Outstanding Achievement Award</strong> (1st Contributor, 2023).
