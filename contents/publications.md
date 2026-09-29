@@ -1,6 +1,8 @@
 #### Seleted Publications
 
-- L. Hou, X.H. Zhou, ..., <strong>H. Chen</strong><sup>&#9993;</sup>. TL-HDMR: A Transfer Learning Framework for Advancing Equitable Causal Inference reveals Metabolic Signatures of Stroke across Multiple Ancestries. <strong>Briefings in Bioinformatics</strong>  (Accept).
+- <strong>H. Chen</strong>, Y. He, L. Hou, et al. (2026). A Statistical Framework for Integrative Imaging Genomics with Biclustering and Ensemble Penalized Regression in Alzheimer's Disease. <strong>NeuroImage</strong>  (Accept).
+
+- L. Hou, X.H. Zhou, ..., <strong>H. Chen</strong><sup>&#9993;</sup>. TL-HDMR: A Transfer Learning Framework for Advancing Equitable Causal Inference reveals Metabolic Signatures of Stroke across Multiple Ancestries. <strong>Briefings in Bioinformatics</strong>, 27(5): bbag473. [[Paper]](https://doi.org/10.1093/bib/bbag473)
 
 - <strong>H. Chen</strong>, D. Liu, J. Ji, et al. (2026). Unsupervised Sparse Multi-task Learning with Application to Alzheimer's Disease. <strong>Statistics in Medicine</strong>, 45(8-9): e70526. [[Paper]](https://doi.org/10.1002/sim.70526)
 
@@ -32,7 +34,7 @@
 
 #### Submitted / Under Review
 
-- <strong>H. Chen</strong>, Y. He, L. Hou, et al. A Statistical Framework for Integrative Imaging Genomics with Biclustering and Ensemble Penalized Regression in Alzheimer's Disease. <strong>NeuroImage</strong>  (Under Review (2nd round)).
+- T. Zhou, L. Hou, , <strong>H. Chen</strong><sup>&#9993;</sup>, et al. Robust Mendelian randomization via environmental invariance maximizes causal discovery across multi-ancestry GWAS by mitigating extreme pleiotropy. <strong>Briefings in Bioinformatics</strong>  (Major revision received, revising).
 
 - C. Ma, <strong>H. Chen</strong><sup>&#9993;</sup>, Y. Hu<sup>&#9993;</sup>, et al. Differential Network Analysis for Compositional Data with Applications to Metagenomics and Single Cell Sequencing Studies. <strong>Statistica Sinica</strong>  (Major revision received, revising).
 
