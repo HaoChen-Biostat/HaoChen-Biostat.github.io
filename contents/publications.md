@@ -1,6 +1,6 @@
 #### Seleted Publications
 
-- <strong>H. Chen</strong>, Y. He, L. Hou, et al. (2026). A Statistical Framework for Integrative Imaging Genomics with Biclustering and Ensemble Penalized Regression in Alzheimer's Disease. <strong>NeuroImage</strong>  (Accept).
+- <strong>H. Chen</strong>, Y. He, et al. (2026). A Statistical Framework for Integrative Imaging Genomics with Biclustering and Ensemble Penalized Regression in Alzheimer's Disease. <strong>NeuroImage</strong>  (Accept).
 
 - L. Hou, X.H. Zhou, ..., <strong>H. Chen</strong><sup>&#9993;</sup>. (2026). TL-HDMR: A Transfer Learning Framework for Advancing Equitable Causal Inference reveals Metabolic Signatures of Stroke across Multiple Ancestries. <strong>Briefings in Bioinformatics</strong>, 27(5): bbag473. [[Paper]](https://doi.org/10.1093/bib/bbag473)
 
