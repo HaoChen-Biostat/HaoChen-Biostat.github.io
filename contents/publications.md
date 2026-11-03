@@ -1,5 +1,7 @@
 #### Seleted Publications
 
+- C. Ma, <strong>H. Chen</strong><sup>&#9993;</sup>, Y. Hu<sup>&#9993;</sup>, et al. (2026+). Differential Network Analysis for Compositional Data. <strong>Statistica Sinica</strong>, Accept.
+
 - <strong>H. Chen</strong>, Y. He, et al. (2026). A Statistical Framework for Integrative Imaging Genomics with Biclustering and Ensemble Penalized Regression in Alzheimer's Disease. <strong>NeuroImage</strong>, 341: 122267. [[Paper]](https://doi.org/10.1016/j.neuroimage.2026.122267)
 
 - L. Hou, X.H. Zhou, ..., <strong>H. Chen</strong><sup>&#9993;</sup>. (2026). TL-HDMR: A Transfer Learning Framework for Advancing Equitable Causal Inference reveals Metabolic Signatures of Stroke across Multiple Ancestries. <strong>Briefings in Bioinformatics</strong>, 27(5): bbag473. [[Paper]](https://doi.org/10.1093/bib/bbag473)
@@ -35,8 +37,6 @@
 #### Submitted / Under Review
 
 - T. Zhou, L. Hou, , <strong>H. Chen</strong><sup>&#9993;</sup>, et al. Robust Mendelian randomization via environmental invariance maximizes causal discovery across multi-ancestry GWAS by mitigating extreme pleiotropy. <strong>Briefings in Bioinformatics</strong>  (Major revision received, revising).
-
-- C. Ma, <strong>H. Chen</strong><sup>&#9993;</sup>, Y. Hu<sup>&#9993;</sup>, et al. Differential Network Analysis for Compositional Data with Applications to Metagenomics and Single Cell Sequencing Studies. <strong>Statistica Sinica</strong>  (Major revision received, revising).
 
 - <strong>H. Chen</strong>, Y. He, C. Ma. Direct Hub Detection in Compositional Graphical Models via Spectral Preservation. <strong>Journal of the American Statistical Association</strong>  (Under Review (1st round)).
 
