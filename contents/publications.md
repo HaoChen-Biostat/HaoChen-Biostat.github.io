@@ -36,9 +36,9 @@
 
 #### Submitted / Under Review
 
-- T. Zhou, L. Hou, , <strong>H. Chen</strong><sup>&#9993;</sup>, et al. Robust Mendelian randomization via environmental invariance maximizes causal discovery across multi-ancestry GWAS by mitigating extreme pleiotropy. <strong>Briefings in Bioinformatics</strong>  (Major revision received, revising).
+- T. Zhou, L. Hou, , <strong>H. Chen</strong><sup>&#9993;</sup>, et al. Robust Mendelian randomization via environmental invariance maximizes causal discovery across multi-ancestry GWAS by mitigating extreme pleiotropy. <strong>Briefings in Bioinformatics</strong>  (Under Review (2nd round)).
 
-- <strong>H. Chen</strong>, Y. He, C. Ma. Direct Hub Detection in Compositional Graphical Models via Spectral Preservation. <strong>Journal of the American Statistical Association</strong>  (Under Review (1st round)).
+- <strong>H. Chen</strong>, Y. He, C. Ma. Direct Hub Detection in Compositional Graphical Models via Spectral Preservation. <strong>Journal of the American Statistical Association</strong>  (Major revision received, revising).
 
 - Y. Wei, L. Hou<sup>&#9993;</sup>, <strong>H. Chen</strong><sup>&#9993;</sup>, et al. A Robust Transfer Learning Framework for Integrating Multi-Source Heterogeneous Omics Data via Gaussian Copula. <strong>IEEE Journal of Biomedical and Health Informatics</strong>  (Under Review (1st round)).
 
