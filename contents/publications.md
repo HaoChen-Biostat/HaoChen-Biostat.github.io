@@ -42,4 +42,4 @@
 
 - Y. Wei, L. Hou<sup>&#9993;</sup>, <strong>H. Chen</strong><sup>&#9993;</sup>, et al. A Robust Transfer Learning Framework for Integrating Multi-Source Heterogeneous Omics Data via Gaussian Copula. <strong>IEEE Journal of Biomedical and Health Informatics</strong>  (Under Review (1st round)).
 
-- <strong>H. Chen</strong>, Y. He, L. Hou, et al. Simultaneous Differential Network and Pathway Identification for Analyzing Effects of Brain Functional Connectivities on the Pathway from ApoE Gene to Alzheimer's Disease. <strong>Statistical Methods in Medical Research</strong>  (Under Review (1st round)).
+- <strong>H. Chen</strong>, Y. He, L. Hou, et al. Simultaneous Differential Network and Pathway Identification for Analyzing Effects of Brain Functional Connectivities on the Pathway from ApoE Gene to Alzheimer's Disease. <strong>Statistical Methods in Medical Research</strong>  (Under Review (1st round))
